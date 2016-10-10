@@ -1,0 +1,69 @@
+[00:01:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3307ms behind, skipping 66 tick(s)
+[00:03:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2298ms behind, skipping 45 tick(s)
+[00:05:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2098ms behind, skipping 41 tick(s)
+[00:06:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2262ms behind, skipping 45 tick(s)
+[00:06:20] [Server thread/INFO]: Lause lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:06:20] [Server thread/INFO]: Lause left the game
+[00:06:30] [Server thread/INFO]: Lause[/192.168.0.12:29532] logged in with entity id 73943 at (-1409.0870015679216, 64.0, -134.54955725428)
+[00:06:30] [Server thread/INFO]: Lause joined the game
+[00:07:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2232ms behind, skipping 44 tick(s)
+[00:09:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2136ms behind, skipping 42 tick(s)
+[00:09:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2260ms behind, skipping 45 tick(s)
+[00:12:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2013ms behind, skipping 40 tick(s)
+[00:15:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2282ms behind, skipping 45 tick(s)
+[00:16:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2408ms behind, skipping 48 tick(s)
+[00:17:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3156ms behind, skipping 63 tick(s)
+[00:39:21] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[00:49:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2778ms behind, skipping 55 tick(s)
+[00:50:02] [Server thread/INFO]: Lause fell from a high place
+[00:53:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2669ms behind, skipping 53 tick(s)
+[00:58:50] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:00:12] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:00:50] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:01:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2233ms behind, skipping 44 tick(s)
+[01:03:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2006ms behind, skipping 40 tick(s)
+[01:06:20] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:07:01] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:07:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2844ms behind, skipping 56 tick(s)
+[01:10:25] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:19:00] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:19:17] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:19:42] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:19:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2498ms behind, skipping 49 tick(s)
+[01:19:49] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:20:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2314ms behind, skipping 46 tick(s)
+[01:20:39] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:22:31] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:22:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2796ms behind, skipping 55 tick(s)
+[01:23:25] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:23:34] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:24:19] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:25:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2236ms behind, skipping 44 tick(s)
+[01:26:23] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:26:33] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:27:39] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID 64f9a316-9f40-4ebe-8459-eb14162e54d6
+[01:29:57] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID e9e011ed-81e5-42da-b5fc-edff08835f47
+[01:29:57] [Server thread/WARN]: Keeping entity Wolf that already exists with UUID c38485ff-6948-4d32-b9c7-62380d79f5e0
+[01:30:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3265ms behind, skipping 65 tick(s)
+[01:33:52] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:34:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2038ms behind, skipping 40 tick(s)
+[01:34:18] [Server thread/INFO]: <Lause> t
+[01:37:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2975ms behind, skipping 59 tick(s)
+[01:40:05] [Server thread/WARN]: Keeping entity Sheep that already exists with UUID eebea9e8-c88b-4f82-a7a0-1a245836867a
+[01:40:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2234ms behind, skipping 44 tick(s)
+[01:43:51] [Server thread/INFO]: Lause lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:43:51] [Server thread/INFO]: Lause left the game
+[01:45:34] [Server thread/INFO]: Siemq lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:45:34] [Server thread/INFO]: Siemq left the game
+[01:49:12] [Server thread/INFO]: Stopping server
+[01:49:12] [Server thread/INFO]: Saving players
+[01:49:12] [Server thread/INFO]: Saving worlds
+[01:49:12] [Server thread/INFO]: Saving chunks for level 'AmazingWorld'/Overworld
+[01:49:12] [Server Shutdown Thread/INFO]: Stopping server
+[01:49:12] [Server Shutdown Thread/INFO]: Saving players
+[01:49:12] [Server Shutdown Thread/INFO]: Saving worlds
+[01:49:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'AmazingWorld'/Overworld
+[01:49:12] [Server thread/INFO]: Saving chunks for level 'AmazingWorld'/Nether
+[01:49:12] [Server thread/INFO]: Saving chunks for level 'AmazingWorld'/The End
+[01:49:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'AmazingWorld'/Nether
+[01:49:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'AmazingWorld'/The End

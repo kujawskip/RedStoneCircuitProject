@@ -1,0 +1,36 @@
+[17:08:46] [Server thread/INFO]: Starting minecraft server version 1.9.2
+[17:08:46] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Nieprawid³owe dojœcie
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_101]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_101]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_101]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_101]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_101]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
+	at la$2.run(SourceFile:93) [minecraft_server.jar:?]
+[17:08:46] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[17:08:46] [Server thread/INFO]: Loading properties
+[17:08:47] [Server thread/INFO]: Default game type: SURVIVAL
+[17:08:47] [Server thread/INFO]: Generating keypair
+[17:08:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:08:47] [Server thread/INFO]: Using default channel type
+[17:08:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:08:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:08:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:08:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:08:49] [Server thread/INFO]: Preparing level "AmazingWorld"
+[17:08:49] [Server thread/INFO]: Preparing start region for level 0
+[17:08:50] [Server thread/INFO]: Preparing spawn area: 0%
+[17:08:51] [Server thread/INFO]: Done (2,373s)! For help, type "help" or "?"
+[17:08:51] [Server thread/INFO]: Stopping server
+[17:08:51] [Server thread/INFO]: Saving players
+[17:08:51] [Server thread/INFO]: Saving worlds
+[17:08:51] [Server thread/INFO]: Saving chunks for level 'AmazingWorld'/Overworld
+[17:08:51] [Server thread/INFO]: Saving chunks for level 'AmazingWorld'/Nether
+[17:08:51] [Server thread/INFO]: Saving chunks for level 'AmazingWorld'/The End
+[17:08:51] [Server Shutdown Thread/INFO]: Stopping server
